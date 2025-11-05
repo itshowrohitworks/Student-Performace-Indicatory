@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+requests
+setuptools
+# Triggers setup.py
+-e . 
